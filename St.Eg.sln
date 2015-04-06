@@ -98,6 +98,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "St.Eg.Day2.M2.Ex6.ISP.After
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "St.Eg.Day2.M2.Ex7.DIP.After", "St.Eg.Day2.M2.Ex7.DIP.After\St.Eg.Day2.M2.Ex7.DIP.After.csproj", "{B614AD9B-F4EB-41F2-ACAE-2AC690BA9FFA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Slides", "Slides", "{D455C2A6-AF44-4F84-BB77-60F6A88F932C}"
+	ProjectSection(SolutionItems) = preProject
+		Slides\Day 1.pdf = Slides\Day 1.pdf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Outlines", "Outlines", "{A59262C4-A9F4-4854-94CE-A2EB90897B16}"
+	ProjectSection(SolutionItems) = preProject
+		Outlines\Day 1.pdf = Outlines\Day 1.pdf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
