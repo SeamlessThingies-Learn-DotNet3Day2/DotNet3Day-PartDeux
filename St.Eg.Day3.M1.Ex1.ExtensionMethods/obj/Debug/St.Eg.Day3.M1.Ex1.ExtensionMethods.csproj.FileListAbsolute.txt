@@ -1,0 +1,5 @@
+D:\Projects\ST\St.Eg\St.Eg.Day3.M1.Ex1.ExtensionMethods\bin\Debug\St.Eg.Day3.M1.Ex1.ExtensionMethods.exe.config
+D:\Projects\ST\St.Eg\St.Eg.Day3.M1.Ex1.ExtensionMethods\bin\Debug\St.Eg.Day3.M1.Ex1.ExtensionMethods.exe
+D:\Projects\ST\St.Eg\St.Eg.Day3.M1.Ex1.ExtensionMethods\bin\Debug\St.Eg.Day3.M1.Ex1.ExtensionMethods.pdb
+D:\Projects\ST\St.Eg\St.Eg.Day3.M1.Ex1.ExtensionMethods\obj\Debug\St.Eg.Day3.M1.Ex1.ExtensionMethods.exe
+D:\Projects\ST\St.Eg\St.Eg.Day3.M1.Ex1.ExtensionMethods\obj\Debug\St.Eg.Day3.M1.Ex1.ExtensionMethods.pdb

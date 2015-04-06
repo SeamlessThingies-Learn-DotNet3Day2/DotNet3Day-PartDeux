@@ -1,0 +1,4 @@
+D:\Projects\ST\St.Eg\St.Eg.Day2.M2.Ex1.Smells.Before\bin\Debug\St.Eg.Day2.M2.Ex1.Smells.Before.dll
+D:\Projects\ST\St.Eg\St.Eg.Day2.M2.Ex1.Smells.Before\bin\Debug\St.Eg.Day2.M2.Ex1.Smells.Before.pdb
+D:\Projects\ST\St.Eg\St.Eg.Day2.M2.Ex1.Smells.Before\obj\Debug\St.Eg.Day2.M2.Ex1.Smells.Before.dll
+D:\Projects\ST\St.Eg\St.Eg.Day2.M2.Ex1.Smells.Before\obj\Debug\St.Eg.Day2.M2.Ex1.Smells.Before.pdb

@@ -1,0 +1,5 @@
+D:\Projects\ST\St.Eg\St.Eg.Day3.M3.Ex1.InstallNUnit\bin\Debug\St.Eg.Day3.M3.Ex1.InstallNUnit.exe.config
+D:\Projects\ST\St.Eg\St.Eg.Day3.M3.Ex1.InstallNUnit\bin\Debug\St.Eg.Day3.M3.Ex1.InstallNUnit.exe
+D:\Projects\ST\St.Eg\St.Eg.Day3.M3.Ex1.InstallNUnit\bin\Debug\St.Eg.Day3.M3.Ex1.InstallNUnit.pdb
+D:\Projects\ST\St.Eg\St.Eg.Day3.M3.Ex1.InstallNUnit\obj\Debug\St.Eg.Day3.M3.Ex1.InstallNUnit.exe
+D:\Projects\ST\St.Eg\St.Eg.Day3.M3.Ex1.InstallNUnit\obj\Debug\St.Eg.Day3.M3.Ex1.InstallNUnit.pdb

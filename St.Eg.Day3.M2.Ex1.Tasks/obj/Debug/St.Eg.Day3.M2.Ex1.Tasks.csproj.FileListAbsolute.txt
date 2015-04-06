@@ -1,0 +1,5 @@
+D:\Projects\ST\St.Eg\St.Eg.Day3.M2.Ex1.Tasks\bin\Debug\St.Eg.Day3.M2.Ex1.Tasks.exe.config
+D:\Projects\ST\St.Eg\St.Eg.Day3.M2.Ex1.Tasks\bin\Debug\St.Eg.Day3.M2.Ex1.Tasks.exe
+D:\Projects\ST\St.Eg\St.Eg.Day3.M2.Ex1.Tasks\bin\Debug\St.Eg.Day3.M2.Ex1.Tasks.pdb
+D:\Projects\ST\St.Eg\St.Eg.Day3.M2.Ex1.Tasks\obj\Debug\St.Eg.Day3.M2.Ex1.Tasks.exe
+D:\Projects\ST\St.Eg\St.Eg.Day3.M2.Ex1.Tasks\obj\Debug\St.Eg.Day3.M2.Ex1.Tasks.pdb

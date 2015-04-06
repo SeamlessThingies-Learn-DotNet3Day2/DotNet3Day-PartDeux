@@ -1,0 +1,5 @@
+D:\Projects\ST\St.Eg\St.Eg.Day2.M1.Ex3.Repository\bin\Debug\St.Eg.Day2.M1.Ex3.Repository.exe.config
+D:\Projects\ST\St.Eg\St.Eg.Day2.M1.Ex3.Repository\bin\Debug\St.Eg.Day2.M1.Ex3.Repository.exe
+D:\Projects\ST\St.Eg\St.Eg.Day2.M1.Ex3.Repository\bin\Debug\St.Eg.Day2.M1.Ex3.Repository.pdb
+D:\Projects\ST\St.Eg\St.Eg.Day2.M1.Ex3.Repository\obj\Debug\St.Eg.Day2.M1.Ex3.Repository.exe
+D:\Projects\ST\St.Eg\St.Eg.Day2.M1.Ex3.Repository\obj\Debug\St.Eg.Day2.M1.Ex3.Repository.pdb

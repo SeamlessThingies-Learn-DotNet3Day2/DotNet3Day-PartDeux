@@ -1,0 +1,5 @@
+D:\Projects\ST\St.Eg\St.Eg.Day3.M3.Ex3.DataDrivenTest\bin\Debug\St.Eg.Day3.M3.Ex3.DataDrivenTest.exe.config
+D:\Projects\ST\St.Eg\St.Eg.Day3.M3.Ex3.DataDrivenTest\bin\Debug\St.Eg.Day3.M3.Ex3.DataDrivenTest.exe
+D:\Projects\ST\St.Eg\St.Eg.Day3.M3.Ex3.DataDrivenTest\bin\Debug\St.Eg.Day3.M3.Ex3.DataDrivenTest.pdb
+D:\Projects\ST\St.Eg\St.Eg.Day3.M3.Ex3.DataDrivenTest\obj\Debug\St.Eg.Day3.M3.Ex3.DataDrivenTest.exe
+D:\Projects\ST\St.Eg\St.Eg.Day3.M3.Ex3.DataDrivenTest\obj\Debug\St.Eg.Day3.M3.Ex3.DataDrivenTest.pdb

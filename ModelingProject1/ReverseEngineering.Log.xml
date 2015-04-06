@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2015-04-05T17:30:53" Importance="High" Text="Reverse Engineering Started." />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: '1933d028-e6ae-49c1-8d58-cd357b9573f8' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: '1fe52220-30fe-4c7e-ba3e-09680f72c0e5' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'a6f18886-e40a-43c9-a9c4-d0da02da4f34' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'f3e626c3-9090-4cbb-b9f0-51eff063ef9a' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Integer' -  (PrimitiveType)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St' -  (Package)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg' -  (Package)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2' -  (Package)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2' -  (Package)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3' -  (Package)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP' -  (Package)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After' -  (Package)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::FileStore' -  (Class)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::FileStore::FileStore' -  (Operation)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::FileStore::GetFileInfo' -  (Operation)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::FileStore::GetFileInfo::id' -  (Parameter)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::FileStore::GetFileInfo::workingDirectory' -  (Parameter)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::FileStore::ReadAllText' -  (Operation)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::FileStore::ReadAllText::path' -  (Parameter)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::FileStore::WriteAllText' -  (Operation)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::FileStore::WriteAllText::message' -  (Parameter)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::FileStore::WriteAllText::path' -  (Parameter)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::StoreCache' -  (Class)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::StoreCache::AddOrUpdate' -  (Operation)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::StoreCache::AddOrUpdate::id' -  (Parameter)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::StoreCache::AddOrUpdate::message' -  (Parameter)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::StoreCache::cache' -  (Property)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::StoreCache::GetOrAdd' -  (Operation)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::StoreCache::GetOrAdd::id' -  (Parameter)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::StoreCache::GetOrAdd::messageFactory' -  (Parameter)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::StoreCache::StoreCache' -  (Operation)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::StoreLogger' -  (Class)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::StoreLogger::DidNotFind' -  (Operation)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::StoreLogger::DidNotFind::id' -  (Parameter)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::StoreLogger::Reading' -  (Operation)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::StoreLogger::Reading::id' -  (Parameter)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::StoreLogger::Returning' -  (Operation)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::StoreLogger::Returning::id' -  (Parameter)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::StoreLogger::Saved' -  (Operation)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::StoreLogger::Saved::id' -  (Parameter)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::StoreLogger::Saving' -  (Operation)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::StoreLogger::Saving::id' -  (Parameter)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::St::Eg::Day2::M2::Ex3::SRP::After::StoreLogger::StoreLogger' -  (Operation)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System' -  (Package)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Collections' -  (Package)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Collections::Concurrent' -  (Package)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Collections::Concurrent::ConcurrentDictionary' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Collections::Concurrent::ConcurrentDictionary&lt;Int32‎, String‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Func' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Func&lt;Int32‎, String‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::IO' -  (Package)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::IO::FileInfo' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'String' -  (PrimitiveType)" />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="High" Text="(3) type(s) fully reverse engineered." />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="High" Text="(5) type(s) partially reverse engineered.  These types were not included in the original selection so their full definitions are not reverse engineered.  Instead, this shallow operation has simply ensured these types exist in the UML model because they are needed in order to fully describe other elements." />
+  <Message Timestamp="2015-04-05T17:30:55" Importance="High" Text="The reverse engineering operation completed with (0) error(s), and (0) warning(s)." />
+</Log>

@@ -1,0 +1,6 @@
+D:\Projects\ST\St.Eg\St.Eg.M2.Ex2.Events\bin\Debug\St.Eg.M2.Ex2.Events.exe.config
+D:\Projects\ST\St.Eg\St.Eg.M2.Ex2.Events\bin\Debug\St.Eg.M2.Ex2.Events.exe
+D:\Projects\ST\St.Eg\St.Eg.M2.Ex2.Events\bin\Debug\St.Eg.M2.Ex2.Events.pdb
+D:\Projects\ST\St.Eg\St.Eg.M2.Ex2.Events\obj\Debug\St.Eg.M2.Ex2.Events.csprojResolveAssemblyReference.cache
+D:\Projects\ST\St.Eg\St.Eg.M2.Ex2.Events\obj\Debug\St.Eg.M2.Ex2.Events.exe
+D:\Projects\ST\St.Eg\St.Eg.M2.Ex2.Events\obj\Debug\St.Eg.M2.Ex2.Events.pdb

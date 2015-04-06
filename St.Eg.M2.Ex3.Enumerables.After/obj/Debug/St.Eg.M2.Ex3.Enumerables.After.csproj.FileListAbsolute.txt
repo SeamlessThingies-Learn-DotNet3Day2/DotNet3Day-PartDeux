@@ -1,0 +1,5 @@
+D:\Projects\ST\St.Eg\St.Eg.M2.Ex3.Enumerables.After\bin\Debug\St.Eg.M2.Ex3.Enumerables.After.exe.config
+D:\Projects\ST\St.Eg\St.Eg.M2.Ex3.Enumerables.After\bin\Debug\St.Eg.M2.Ex3.Enumerables.After.exe
+D:\Projects\ST\St.Eg\St.Eg.M2.Ex3.Enumerables.After\bin\Debug\St.Eg.M2.Ex3.Enumerables.After.pdb
+D:\Projects\ST\St.Eg\St.Eg.M2.Ex3.Enumerables.After\obj\Debug\St.Eg.M2.Ex3.Enumerables.After.exe
+D:\Projects\ST\St.Eg\St.Eg.M2.Ex3.Enumerables.After\obj\Debug\St.Eg.M2.Ex3.Enumerables.After.pdb

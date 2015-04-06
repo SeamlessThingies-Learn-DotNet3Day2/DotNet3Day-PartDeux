@@ -1,0 +1,6 @@
+D:\Projects\ST\St.Eg\St.Eg.M2.Ex1.Collections\bin\Debug\St.Eg.M2.Ex1.Collections.exe.config
+D:\Projects\ST\St.Eg\St.Eg.M2.Ex1.Collections\bin\Debug\St.Eg.M2.Ex1.Collections.exe
+D:\Projects\ST\St.Eg\St.Eg.M2.Ex1.Collections\bin\Debug\St.Eg.M2.Ex1.Collections.pdb
+D:\Projects\ST\St.Eg\St.Eg.M2.Ex1.Collections\obj\Debug\St.Eg.M2.Ex1.Collections.csprojResolveAssemblyReference.cache
+D:\Projects\ST\St.Eg\St.Eg.M2.Ex1.Collections\obj\Debug\St.Eg.M2.Ex1.Collections.exe
+D:\Projects\ST\St.Eg\St.Eg.M2.Ex1.Collections\obj\Debug\St.Eg.M2.Ex1.Collections.pdb

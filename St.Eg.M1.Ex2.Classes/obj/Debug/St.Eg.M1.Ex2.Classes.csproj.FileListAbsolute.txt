@@ -1,0 +1,5 @@
+D:\Projects\ST\St.Eg\St.Eg.M1.Ex2.Classes\bin\Debug\St.Eg.M1.Ex2.Classes.exe.config
+D:\Projects\ST\St.Eg\St.Eg.M1.Ex2.Classes\bin\Debug\St.Eg.M1.Ex2.Classes.exe
+D:\Projects\ST\St.Eg\St.Eg.M1.Ex2.Classes\bin\Debug\St.Eg.M1.Ex2.Classes.pdb
+D:\Projects\ST\St.Eg\St.Eg.M1.Ex2.Classes\obj\Debug\St.Eg.M1.Ex2.Classes.exe
+D:\Projects\ST\St.Eg\St.Eg.M1.Ex2.Classes\obj\Debug\St.Eg.M1.Ex2.Classes.pdb

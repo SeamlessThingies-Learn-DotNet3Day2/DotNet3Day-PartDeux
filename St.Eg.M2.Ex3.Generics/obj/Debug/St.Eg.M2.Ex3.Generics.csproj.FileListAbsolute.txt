@@ -1,0 +1,5 @@
+D:\Projects\ST\St.Eg\St.Eg.M2.Ex3.Generics\bin\Debug\St.Eg.M2.Ex3.Generics.exe.config
+D:\Projects\ST\St.Eg\St.Eg.M2.Ex3.Generics\bin\Debug\St.Eg.M2.Ex3.Generics.exe
+D:\Projects\ST\St.Eg\St.Eg.M2.Ex3.Generics\bin\Debug\St.Eg.M2.Ex3.Generics.pdb
+D:\Projects\ST\St.Eg\St.Eg.M2.Ex3.Generics\obj\Debug\St.Eg.M2.Ex3.Generics.exe
+D:\Projects\ST\St.Eg\St.Eg.M2.Ex3.Generics\obj\Debug\St.Eg.M2.Ex3.Generics.pdb
