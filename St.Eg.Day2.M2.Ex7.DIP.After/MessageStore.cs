@@ -5,10 +5,11 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using St.Eg.Day2.M2.Ex7.DIP.After;
 
 namespace St.Eg.Day2.M2.Ex7.After
 {
-    public class MessageStore
+    public class MessageStore : IMessageStore 
     {
         private readonly IFileLocator fileLocator;
         private readonly IStoreWriter writer;
@@ -46,4 +47,5 @@ namespace St.Eg.Day2.M2.Ex7.After
             return this.fileLocator.GetFileInfo(id);
         }
     }
+
 }

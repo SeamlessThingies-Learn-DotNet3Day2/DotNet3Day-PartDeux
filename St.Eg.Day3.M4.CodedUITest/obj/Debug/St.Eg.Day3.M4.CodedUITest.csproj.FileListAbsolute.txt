@@ -1,4 +1,5 @@
 D:\Projects\ST\St.Eg\St.Eg.Day3.M4.CodedUITest\bin\Debug\St.Eg.Day3.M4.CodedUITest.dll
 D:\Projects\ST\St.Eg\St.Eg.Day3.M4.CodedUITest\bin\Debug\St.Eg.Day3.M4.CodedUITest.pdb
+D:\Projects\ST\St.Eg\St.Eg.Day3.M4.CodedUITest\obj\Debug\St.Eg.Day3.M4.CodedUITest.csprojResolveAssemblyReference.cache
 D:\Projects\ST\St.Eg\St.Eg.Day3.M4.CodedUITest\obj\Debug\St.Eg.Day3.M4.CodedUITest.dll
 D:\Projects\ST\St.Eg\St.Eg.Day3.M4.CodedUITest\obj\Debug\St.Eg.Day3.M4.CodedUITest.pdb

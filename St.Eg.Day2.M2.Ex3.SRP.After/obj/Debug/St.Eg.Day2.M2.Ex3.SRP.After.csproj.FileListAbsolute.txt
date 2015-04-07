@@ -1,4 +1,3 @@
-D:\Projects\ST\St.Eg\St.Eg.Day2.M2.Ex3.SRP.After\obj\Debug\St.Eg.Day2.M2.Ex3.SRP.After.csprojResolveAssemblyReference.cache
 D:\Projects\ST\St.Eg\St.Eg.Day2.M2.Ex3.SRP.After\bin\Debug\St.Eg.Day2.M2.Ex3.SRP.After.dll
 D:\Projects\ST\St.Eg\St.Eg.Day2.M2.Ex3.SRP.After\bin\Debug\St.Eg.Day2.M2.Ex3.SRP.After.pdb
 D:\Projects\ST\St.Eg\St.Eg.Day2.M2.Ex3.SRP.After\bin\Debug\Moq.dll
@@ -20,5 +19,6 @@ D:\Projects\ST\St.Eg\St.Eg.Day2.M2.Ex3.SRP.After\bin\Debug\Serilog.FullNetFx.pdb
 D:\Projects\ST\St.Eg\St.Eg.Day2.M2.Ex3.SRP.After\bin\Debug\Serilog.FullNetFx.xml
 D:\Projects\ST\St.Eg\St.Eg.Day2.M2.Ex3.SRP.After\bin\Debug\xunit.xml
 D:\Projects\ST\St.Eg\St.Eg.Day2.M2.Ex3.SRP.After\bin\Debug\xunit.extensions.xml
+D:\Projects\ST\St.Eg\St.Eg.Day2.M2.Ex3.SRP.After\obj\Debug\St.Eg.Day2.M2.Ex3.SRP.After.csprojResolveAssemblyReference.cache
 D:\Projects\ST\St.Eg\St.Eg.Day2.M2.Ex3.SRP.After\obj\Debug\St.Eg.Day2.M2.Ex3.SRP.After.dll
 D:\Projects\ST\St.Eg\St.Eg.Day2.M2.Ex3.SRP.After\obj\Debug\St.Eg.Day2.M2.Ex3.SRP.After.pdb

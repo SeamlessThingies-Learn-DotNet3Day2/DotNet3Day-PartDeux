@@ -10,7 +10,7 @@ namespace St.Eg.M2.Ex2.Generics
     {
         private static void Main(string[] args)
         {
-            // TODO: create a dog with AGe of type double
+            // TODO: create a dog with Age of type double
             // TODO: create a cat with Age of type int
             //var dog = new Dog<>();
             //var cat = new Cat<>();

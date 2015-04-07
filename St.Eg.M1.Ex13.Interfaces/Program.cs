@@ -9,7 +9,7 @@ namespace St.Eg.M1.Ex3.Interfaces
     internal class Program
     {
         /*
-         * 1. Copy the three classes from Ex2
+         * 1. Copy the three classes from Ex2 (done)
          * 2. Create the IAnimal interface
          * 3. Derive Animal from IAnimal
          * 4. Create a method accepting an IAnimal

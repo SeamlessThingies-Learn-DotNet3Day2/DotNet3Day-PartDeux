@@ -11,7 +11,7 @@ namespace St.Eg.M1.Ex4.Events
     class Program
     {
         /* 
-         * 1. Copy classes and interface from Ex3
+         * 1. Copy classes and interface from Ex3 (already done)
          * 2. Create a delegate named AgeUpdatedHandler
          * 3. Add an event to the interface for the AgeUpdated delegate
          * 4. Implement the event in Animal

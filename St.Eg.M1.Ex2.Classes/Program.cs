@@ -10,16 +10,15 @@ namespace St.Eg.M1.Ex2.Classes
     {
         /* Guide:
          * 1. Create animal class
-         * 2. Create
-         * 3. Add abstract method MakeSound() in Animal
-         * 4. In Dog override MakeSound to print Woof!
-         * 5. in Cat override MakeSound to print Meow!
-         * 6. Create a Dog object
-         * 7. Create a Cat object
-         * 8. Call the MakeSound method on each
-         * 9. add an age auto-Property
-         * 10. Add constructors to initialize  the age property
-         * 11. Add lines of code to print the age in addtion to calling MakeSound
+         * 2. Add abstract method MakeSound() in Animal
+         * 3. In Dog override MakeSound to print Woof!
+         * 4. in Cat override MakeSound to print Meow!
+         * 5. Create a Dog object
+         * 6. Create a Cat object
+         * 7. Call the MakeSound method on each
+         * 8. add an age auto-Property
+         * 9. Add constructors to initialize  the age property
+         *10. Add lines of code to print the age in addtion to calling MakeSound
          * */
 
         static void Main(string[] args)
