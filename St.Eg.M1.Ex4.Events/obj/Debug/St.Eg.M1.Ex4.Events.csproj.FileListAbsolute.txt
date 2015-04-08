@@ -3,4 +3,3 @@ D:\Projects\ST\St.Eg\St.Eg.M1.Ex4.Events\bin\Debug\St.Eg.M1.Ex4.Events.exe
 D:\Projects\ST\St.Eg\St.Eg.M1.Ex4.Events\bin\Debug\St.Eg.M1.Ex4.Events.pdb
 D:\Projects\ST\St.Eg\St.Eg.M1.Ex4.Events\obj\Debug\St.Eg.M1.Ex4.Events.exe
 D:\Projects\ST\St.Eg\St.Eg.M1.Ex4.Events\obj\Debug\St.Eg.M1.Ex4.Events.pdb
-D:\Projects\ST\St.Eg\St.Eg.M1.Ex4.Events\obj\Debug\St.Eg.M1.Ex4.Events.csprojResolveAssemblyReference.cache

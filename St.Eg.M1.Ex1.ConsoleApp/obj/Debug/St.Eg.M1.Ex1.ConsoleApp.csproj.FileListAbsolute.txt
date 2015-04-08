@@ -3,4 +3,3 @@ D:\Projects\ST\St.Eg\St.Eg.M1.Ex1.ConsoleApp\bin\Debug\St.Eg.M1.Ex1.ConsoleApp.e
 D:\Projects\ST\St.Eg\St.Eg.M1.Ex1.ConsoleApp\bin\Debug\St.Eg.M1.Ex1.ConsoleApp.pdb
 D:\Projects\ST\St.Eg\St.Eg.M1.Ex1.ConsoleApp\obj\Debug\St.Eg.M1.Ex1.ConsoleApp.exe
 D:\Projects\ST\St.Eg\St.Eg.M1.Ex1.ConsoleApp\obj\Debug\St.Eg.M1.Ex1.ConsoleApp.pdb
-D:\Projects\ST\St.Eg\St.Eg.M1.Ex1.ConsoleApp\obj\Debug\St.Eg.M1.Ex1.ConsoleApp.csprojResolveAssemblyReference.cache
