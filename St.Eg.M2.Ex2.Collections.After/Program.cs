@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace St.Eg.M2.Ex4.Collections.After
 {
+
     class Program
     {
         static void Main(string[] args)
         {
-            array();
-            list();
+            //array();
+            //list();
             dict();
         }
 
@@ -47,10 +48,12 @@ namespace St.Eg.M2.Ex4.Collections.After
             animals["Bleu"] = new Dog<int>(1);
             animals["Bob"] = new Cat<int>(10);
 
-            foreach (var animal in animals.Values)
+            foreach (var key in animals.Keys)
             {
-                Console.WriteLine("I am a {0} and I'm this old {1}", animal.GetType().Name, animal.Age);
+                Console.WriteLine(key);
             }
+
+            Console.WriteLine(animals["Bob"].Age);
         }
     }
 

@@ -3,3 +3,4 @@ D:\Projects\ST\St.Eg\St.Eg.M2.Ex1.INPC\bin\Debug\St.Eg.M2.Ex1.INPC.exe
 D:\Projects\ST\St.Eg\St.Eg.M2.Ex1.INPC\bin\Debug\St.Eg.M2.Ex1.INPC.pdb
 D:\Projects\ST\St.Eg\St.Eg.M2.Ex1.INPC\obj\Debug\St.Eg.M2.Ex1.INPC.exe
 D:\Projects\ST\St.Eg\St.Eg.M2.Ex1.INPC\obj\Debug\St.Eg.M2.Ex1.INPC.pdb
+D:\Projects\ST\St.Eg\St.Eg.M2.Ex1.INPC\obj\Debug\St.Eg.M2.Ex1.INPC.csprojResolveAssemblyReference.cache

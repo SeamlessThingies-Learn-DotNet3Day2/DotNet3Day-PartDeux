@@ -3,3 +3,4 @@ D:\Projects\ST\St.Eg\St.Eg.M1.Ex2.Classes.After\bin\Debug\St.Eg.M1.Ex2.Classes.A
 D:\Projects\ST\St.Eg\St.Eg.M1.Ex2.Classes.After\bin\Debug\St.Eg.M1.Ex2.Classes.After.pdb
 D:\Projects\ST\St.Eg\St.Eg.M1.Ex2.Classes.After\obj\Debug\St.Eg.M1.Ex2.Classes.After.exe
 D:\Projects\ST\St.Eg\St.Eg.M1.Ex2.Classes.After\obj\Debug\St.Eg.M1.Ex2.Classes.After.pdb
+D:\Projects\ST\St.Eg\St.Eg.M1.Ex2.Classes.After\obj\Debug\St.Eg.M1.Ex2.Classes.After.csprojResolveAssemblyReference.cache

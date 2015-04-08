@@ -3,3 +3,4 @@ D:\Projects\ST\St.Eg\St.Eg.M1.Ex13.Interfaces\bin\Debug\St.Eg.M1.Ex3.Interfaces.
 D:\Projects\ST\St.Eg\St.Eg.M1.Ex13.Interfaces\bin\Debug\St.Eg.M1.Ex3.Interfaces.pdb
 D:\Projects\ST\St.Eg\St.Eg.M1.Ex13.Interfaces\obj\Debug\St.Eg.M1.Ex3.Interfaces.exe
 D:\Projects\ST\St.Eg\St.Eg.M1.Ex13.Interfaces\obj\Debug\St.Eg.M1.Ex3.Interfaces.pdb
+D:\Projects\ST\St.Eg\St.Eg.M1.Ex13.Interfaces\obj\Debug\St.Eg.M1.Ex3.Interfaces.csprojResolveAssemblyReference.cache

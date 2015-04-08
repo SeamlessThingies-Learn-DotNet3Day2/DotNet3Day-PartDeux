@@ -15,6 +15,9 @@ namespace St.Eg.M2.Ex1.INPC.After
             Console.WriteLine(dog.Age);
             var inpc = dog as INotifyPropertyChanged;
             if (inpc != null) inpc.PropertyChanged += inpc_PropertyChanged;
+
+
+
             dog.Age = 10;
         }
 

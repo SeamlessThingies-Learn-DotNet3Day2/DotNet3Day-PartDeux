@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -20,10 +21,13 @@ namespace St.Eg.M1.Ex3.Interfaces
 
         private static void Main(string[] args)
         {
-            var d = new Dog(2);
-            var c = new Cat(3);
+            IAnimal d = new Dog(2);
+            IAnimal c = new Cat(3);
 
             // TODO: add two calls to our new method
+            d.MakeSound();
+            c.MakeSound();
+            Console.WriteLine("{0} {1}", d.Age, c.Age);
 
         }
 
@@ -37,9 +41,18 @@ namespace St.Eg.M1.Ex3.Interfaces
     // TODO: create IAnimal Interface 
 
     // TODO: Derive Animal from IAnimal
-    public abstract class Animal 
+
+    public interface IAnimal
+    {
+        int Age { get; set; }
+
+        void MakeSound();
+    }
+
+    public abstract class Animal : IAnimal 
     {
         public int Age { get; set; }
+
         public abstract void MakeSound();
     }
 
@@ -58,6 +71,11 @@ namespace St.Eg.M1.Ex3.Interfaces
         public override void MakeSound()
         {
             Console.WriteLine("Woof!");
+        }
+
+        public void Hello()
+        {
+            
         }
     }
 

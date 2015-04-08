@@ -85,9 +85,9 @@
     <Compile Include="Model8\Repository\InMemoryRepository.cs" />
     <Compile Include="Model8\Repository\IRepository.cs" />
     <Compile Include="Model8\Validation\IValidator.cs" />
-    <Compile Include="Model\Customer.cs" />
-    <Compile Include="Model\Order.cs" />
-    <Compile Include="Model\Product.cs" />
+    <Compile Include="Model1\Customer.cs" />
+    <Compile Include="Model1\Order.cs" />
+    <Compile Include="Model1\Product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

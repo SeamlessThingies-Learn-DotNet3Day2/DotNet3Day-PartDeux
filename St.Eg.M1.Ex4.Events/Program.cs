@@ -22,11 +22,30 @@ namespace St.Eg.M1.Ex4.Events
 
         static void Main(string[] args)
         {
-            var dog = new Dog();
+            IAnimal dog = new Dog();
             Console.WriteLine(dog.Age);
 
-            // TODO: add event handler for dog
-            // TODO: update the age
+            dog.Age = 1;
+
+            dog.AgeUpdated += dog_AgeUpdated;
+            dog.AgeUpdated += dog_AgeUpdated2;
+
+            dog.Age = 3;
+        }
+
+        static void dog_AgeUpdated(object sender, EventArgs args)
+        {
+            var dog = sender as Dog;
+            Console.WriteLine("Lets have a party!  My dog is now {0}", dog.Age);
+            throw new Exception();
+        }
+        static void dog_AgeUpdated2(object sender, EventArgs args)
+        {
+            var dog = sender as Dog;
+            if (dog.Age > 2)
+            {
+                Console.WriteLine("Now not a puppy {0}", dog.Age);
+            }
         }
     }
 
@@ -39,16 +58,26 @@ namespace St.Eg.M1.Ex4.Events
         void MakeSound();
 
         // TODO: declare event in interface
+        event AgeUpdatedHandler AgeUpdated;
     }
 
     public abstract class Animal : IAnimal
     {
         // TODO: rewrite Age to send update notifications
-        public int Age { get; set; }
-
-        public event AgeUpdatedHandler AgeUpdated;
+        private int _age;
+        public int Age
+        {
+            get { return _age; }
+            set
+            {
+                _age = value;
+                if (AgeUpdated != null) AgeUpdated(this, new EventArgs());
+            }
+        }
 
         public abstract void MakeSound();
+
+        public event AgeUpdatedHandler AgeUpdated;
     }
 
     public class Dog : Animal
