@@ -71,7 +71,6 @@
     <Compile Include="IStoreCache.cs" />
     <Compile Include="Maybe.cs" />
     <Compile Include="MessageStore.cs" />
-    <Compile Include="MessageStoreUnitTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SpySink.cs" />
     <Compile Include="SqlStore.cs" />
