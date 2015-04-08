@@ -9,7 +9,7 @@ namespace St.Eg.Day3.M4.Ex4.AutoData
 {
     public class AutoDataTests
     {
-        [Theory, AutoData]
+        [Theory]
         public void AutoDataTheoryTest(int a, int b)
         {
             

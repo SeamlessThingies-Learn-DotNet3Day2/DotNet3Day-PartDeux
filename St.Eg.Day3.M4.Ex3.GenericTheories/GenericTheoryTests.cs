@@ -15,7 +15,7 @@ namespace St.Eg.Day3.M4.Ex3.GenericTheories
         [InlineData("Hello, world!")]
         public void GenericTestMethod<T>(T value)
         {
-            Assert.Equal(true);
+            Assert.True(true);
         }
     }
 }
