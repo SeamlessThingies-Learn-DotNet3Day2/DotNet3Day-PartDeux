@@ -11,6 +11,8 @@ namespace St.Eg.Day3.M4.Ex2.Theories
 {
     public class TheoryTests
     {
+        #region reference
+        /*
         private readonly ITestOutputHelper output;
 
         public TheoryTests(ITestOutputHelper output)
@@ -32,5 +34,8 @@ namespace St.Eg.Day3.M4.Ex2.Theories
         {
             return value % 2 == 1;
         }
+         * 
+         * */
+        #endregion
     }
 }

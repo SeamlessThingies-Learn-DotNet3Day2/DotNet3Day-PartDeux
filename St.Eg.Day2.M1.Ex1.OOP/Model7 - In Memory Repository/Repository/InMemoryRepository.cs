@@ -8,8 +8,8 @@ namespace St.Eg.M1.Ex1.OOP.Model7
 {
     public class InMemoryRepository : IRepository
     {
-        protected Dictionary<string, Customer> _customers = new Dictionary<string, Customer>(); 
-
+        protected Dictionary<string, Customer> _customers = new Dictionary<string, Customer>();
+        
         public virtual T Retrieve<T>(string id) where T : EntityBase
         {
             if (typeof(T) != typeof(Customer))

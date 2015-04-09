@@ -35,12 +35,26 @@ namespace St.Eg.Day2.M2.Ex8.NinjectRunner
 
     public class Foo_B : I_B
     {
-        
+        public Foo_B()
+        {
+            
+        }
     }
 
     public class Foo_C : I_C
     {
-        
+        public Foo_C()
+        {
+            
+        }
+    }
+
+    public class Foo_C2 : I_C
+    {
+        public Foo_C2()
+        {
+            
+        }
     }
 
     class Program
@@ -57,7 +71,7 @@ namespace St.Eg.Day2.M2.Ex8.NinjectRunner
             var k = new StandardKernel();
             k.Bind<I_A>().To<Foo_A>();
             k.Bind<I_B>().To<Foo_B>();
-            k.Bind<I_C>().To<Foo_C>();
+            k.Bind<I_C>().To<Foo_C2>();
 
             var a = k.Get<I_A>();
         }
@@ -65,13 +79,14 @@ namespace St.Eg.Day2.M2.Ex8.NinjectRunner
 
         private static void Example2()
         {
-            var di = new DirectoryInfo("c:\\");
             var k = new StandardKernel();
-            k.Bind<IMessageStore>().To<MessageStore>();
-            k.Bind<IStoreReader>().ToMethod(context => new FileStore(di));
-            k.Bind<IStoreWriter>().ToMethod(context => new FileStore(di));
-            k.Bind<IFileLocator>().ToMethod(context => new FileStore(di));
 
+            var di = new DirectoryInfo("c:\\");
+
+            k.Bind<IMessageStore>().To<MessageStore>();
+            k.Bind<IStoreReader>().To<SqlStore>();
+            k.Bind<IStoreWriter>().To<SqlStore>();
+            //k.Bind<IFileLocator>().ToMethod(context => fs);
 
             var ms = k.Get<IMessageStore>();
         }

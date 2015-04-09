@@ -10,6 +10,8 @@ namespace St.Eg.Day3.M4.Ex1.JustTheFactsMam
 {
     public class Tests
     {
+        #region reference
+        /*
         [Fact]
         public void testMethodAlwaysPasses()
         {
@@ -50,5 +52,8 @@ namespace St.Eg.Day3.M4.Ex1.JustTheFactsMam
         {
             System.Threading.Thread.Sleep(250);
         }
+         * */
+
+        #endregion
     }
 }

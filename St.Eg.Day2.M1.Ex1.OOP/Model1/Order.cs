@@ -13,5 +13,6 @@ namespace St.Eg.M1.Ex1.OOP.Model1
         public DateTime OrderDate { get; set; }
         public string ShippingAddress { get; set; }
         public Product Product { get; set; }
+        public int Quantity { get; set; }
     }
 }

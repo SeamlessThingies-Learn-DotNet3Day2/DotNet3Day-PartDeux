@@ -9,6 +9,8 @@ namespace St.Eg.Day3.M4.Ex3.GenericTheories
 {
     public class GenericTheoryTests
     {
+        #region reference
+        /*
         [Theory]
         [InlineData(42)]
         [InlineData(21.12)]
@@ -17,5 +19,7 @@ namespace St.Eg.Day3.M4.Ex3.GenericTheories
         {
             Assert.True(true);
         }
+         * */
+        #endregion
     }
 }

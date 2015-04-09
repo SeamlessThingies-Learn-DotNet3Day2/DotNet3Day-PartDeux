@@ -9,6 +9,11 @@ namespace St.Eg.Day2.M2.Ex7.After
 {
     public class SqlStore : IStoreReader, IStoreWriter
     {
+        public SqlStore()
+        {
+            
+        }
+
         public void Save(int id, string message)
         {
             // Write to database here

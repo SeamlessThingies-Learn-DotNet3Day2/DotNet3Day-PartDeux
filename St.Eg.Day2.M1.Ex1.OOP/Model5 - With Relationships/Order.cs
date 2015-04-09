@@ -31,6 +31,5 @@ namespace St.Eg.M1.Ex1.OOP.Model5
         {
             throw new NotImplementedException();
         }
-
     }
 }

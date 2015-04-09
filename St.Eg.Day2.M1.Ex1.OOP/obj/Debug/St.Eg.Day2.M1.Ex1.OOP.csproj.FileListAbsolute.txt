@@ -9,3 +9,4 @@ D:\Projects\ST\St.Eg\St.Eg.Day2.M1.Ex1.OOP\bin\Debug\St.Eg.M1.Ex1.OOP.exe
 D:\Projects\ST\St.Eg\St.Eg.Day2.M1.Ex1.OOP\bin\Debug\St.Eg.M1.Ex1.OOP.pdb
 D:\Projects\ST\St.Eg\St.Eg.Day2.M1.Ex1.OOP\obj\Debug\St.Eg.M1.Ex1.OOP.exe
 D:\Projects\ST\St.Eg\St.Eg.Day2.M1.Ex1.OOP\obj\Debug\St.Eg.M1.Ex1.OOP.pdb
+D:\Projects\ST\St.Eg\St.Eg.Day2.M1.Ex1.OOP\obj\Debug\St.Eg.Day2.M1.Ex1.OOP.csprojResolveAssemblyReference.cache

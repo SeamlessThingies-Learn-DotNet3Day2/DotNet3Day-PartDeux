@@ -10,8 +10,8 @@ namespace St.Eg.M1.Ex1.OOP
     {
         static void Main(string[] args)
         {
-            //model7();
-            model8();
+            //model7();  // each class has its own repository type
+            model8(); // one common repository
         }
 
         private static void model7()
